@@ -1,0 +1,3 @@
+IDE: Eclipse 202312 R + Spring Tools 4.21.0.RELEASE
+DB: MS Access 2016
+SKILL: Java 1.8 + Spring Data JDBC + Spring Data JPA + Spring VMC
